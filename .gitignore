@@ -1,0 +1,7 @@
+.env
+.idea/
+services/web/.idea
+services/web/.env
+services/notify/.idea
+services/currency/.idea
+services/currency/currency_app/currency_app/.env
